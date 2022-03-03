@@ -9,4 +9,4 @@ title: Hello World!!
 
 This is Michel's documentation site. Stay tuned! 
 
-<a href="https://michelbarchini.nl/">www.michelbarchini.nl</a>
+<a href="https://michelbarchini.nl/" target="_blank">www.michelbarchini.nl</a>
