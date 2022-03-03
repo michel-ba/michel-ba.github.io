@@ -21,7 +21,7 @@ footer-links:
   facebook: 
   flickr: 
   github:
-  instagram: michel_barchini
+  instagram: michel_barchini {:target="_blank"}
   linkedin: michel-barchini-844277106
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
